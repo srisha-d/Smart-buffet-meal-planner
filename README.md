@@ -1,4 +1,4 @@
-# Smart-Buffet-Meal-Planner-using-Greedy-and-Dynamic-Programming
+# Smart Buffet Meal Planner using Greedy and Dynamic Programming
 
 A C-based optimization system that generates cost-effective and nutritionally balanced buffet meal combinations within a given budget. The project compares a fast Greedy approach with an optimal Dynamic Programming (Knapsack) solution, along with additional features like binary search for meal lookup and weekly buffet planning.
 
